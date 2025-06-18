@@ -1,0 +1,28 @@
+# EDA: Diwali Sales Analysis (Amazon)
+
+## 1. Project Overview & Goal
+This project involves conducting an Exploratory Data Analysis (EDA) on Amazon's Diwali sales data. The primary objective is to gain insights into sales trends, customer behavior, and product performance during the Diwali festive season. The analysis aims to help in optimizing sales strategies, inventory management, and marketing campaigns for future events.
+
+## 2. Data Source
+The dataset used for this project is `Diwali Sales Data.csv`. It contains comprehensive sales records including customer demographics, product details, order status, and transaction amounts.
+
+## 3. Tools and Technologies Used
+* **Python:** The core programming language for data analysis.
+* **Jupyter Notebook:** For an interactive and step-by-step approach to the EDA process.
+* **Pandas:** Essential for data manipulation, cleaning, and analysis.
+* **NumPy:** For numerical operations.
+* **Matplotlib:** For creating static, animated, and interactive visualizations.
+* **Seaborn:** Built on Matplotlib, used for drawing attractive and informative statistical graphics.
+
+## 4. Key Analysis and Insights
+* **Sales Trends Over Time:** Analyzing how sales revenue and order volume fluctuate during the Diwali period.
+* **Customer Demographics:** Understanding purchasing power and buying habits across different age groups, genders, and states.
+* **Top-Performing Products/Categories:** Identifying the best-selling products and categories based on sales and quantity.
+* **Order Status Analysis:** Examining the distribution of different order statuses (e.g., delivered, cancelled, returned).
+* **Payment Method Preferences:** Discovering popular payment methods among customers.
+* **Gender-Based Spending:** Comparing spending patterns between male and female customers.
+* **Marital Status and Occupation Impact:** Analyzing how marital status and occupation influence buying behavior.
+
+## 5. Project Structure & Files
+* `EDA_Diwali_sales_amazon.ipynb`: The main Jupyter Notebook containing all the Python code for data loading, cleaning, EDA, and visualizations.
+* `Diwali Sales Data.csv`: The raw dataset used for the analysis.
