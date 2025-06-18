@@ -1,0 +1,48 @@
+# 📦 E-commerce Product Discovery – Business Analyst Case Study
+
+This repository showcases a **Business Analyst case study** focused on enhancing product discovery features for an e-commerce platform. It includes Agile project documentation using **Confluence**, **Jira**, and **Lucidchart**.
+
+---
+
+## 🎯 Project Objective
+
+Improve the customer's ability to find desired products through **keyword search** and **dynamic filters**, leading to higher engagement and conversions.
+
+---
+
+## 🛠 Tools Used
+
+- **Jira** – Agile project management (sprints, backlog, issues)
+- **Confluence** – Scope, user stories, and documentation
+- **Lucidchart** – BPMN diagrams for stakeholder communication
+
+---
+
+## 👥 Stakeholders
+
+- **Product Owner**: PO  
+- **Business Analyst**: Satyam Pandey  
+- **Development Team**  
+- **QA Team**  
+- **End Users**
+
+---
+
+## 📁 Project Artifacts
+
+| Artifact                      | Link |
+|------------------------------|------|
+| 📌 **Jira Project Backlog**  | [Open Jira Board](https://satyamp352.atlassian.net/jira/software/projects/ECPF/boards/166) |
+| 📄 **Requirements Document** | [View Confluence Page](https://satyamp352.atlassian.net/wiki/spaces/EPD/pages/917580/Detailed+Requirements+Enhanced+Product+Discovery) |
+| 🔁 **Process Flow (BPMN)**   | [View Lucidchart Diagram](https://lucid.app/lucidchart/27e21cea-5a81-43cf-bb0d-591f611d09b4/edit) |
+
+---
+
+## ✅ Outcome
+
+- ✨ Streamlined product discovery experience  
+- 🧠 Clear communication via BPMN diagrams  
+- 📋 Agile documentation ready for real-world delivery
+
+---
+
