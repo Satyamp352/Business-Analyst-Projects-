@@ -1,0 +1,19 @@
+# Pizza Sales Project (SQL) Link - **[ https://drive.google.com/file/d/11XmGTao8BJqMhMl6QYDo6KeSe02qyFaV/view?usp=sharing ]**
+
+## 1. Project Overview & Goal
+This project focuses on analyzing a pizza sales dataset using SQL. The primary goal is to extract meaningful insights into sales performance, customer preferences, and operational efficiency. The analysis aims to help a pizza business understand its key metrics, identify popular items, and optimize its sales strategies.
+
+## 2. Data Source
+The data for this project is a pizza sales dataset, likely containing information such as order details, pizza types, quantities, prices, and dates.
+* The analysis results and conclusions are summarized in the `PIZZA SALES PROJECT(SQL).pdf` document.
+
+## 3. Tools and Technologies Used
+* **SQL (MySQL):** Used for querying, manipulating, and analyzing the raw sales data.
+
+## 4. Key Analysis and Insights
+* **Total Revenue & Sales Volume:** Calculation of overall revenue and the number of pizzas sold.
+* **Order Trends:** Analysis of daily, weekly, or monthly sales trends to identify peak periods.
+* **Most Popular Pizzas:** Identifying top-selling pizza types and sizes.
+* **Average Order Value:** Understanding typical customer spending per order.
+* **Customer Behavior:** Insights into repeat orders or popular combinations.
+* **Time-Based Performance:** Analyzing sales performance at different times of the day.
