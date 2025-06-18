@@ -1,0 +1,36 @@
+# HR Dashboard (Tableau)
+
+## Project Overview & Goal
+This project focuses on creating an interactive Human Resources dashboard using Tableau. The main goal is to provide key insights into workforce data, such as employee demographics, hiring and termination trends, and departmental distribution. This dashboard helps HR professionals and business leaders make data-driven decisions related to human capital.
+
+## Data Source
+The data for this HR dashboard is derived from [**YOUR DATA SOURCE HERE, e.g., a simulated HR dataset from Kaggle, a CSV file, etc.**].
+
+## Tools and Technologies Used
+* **Tableau Desktop:** For data visualization, dashboard creation, and interactive elements.
+* **(Optional) Microsoft Excel / SQL:** For initial data cleaning and preparation (if applicable).
+* **(Optional) Tableau Public:** For publishing and sharing the interactive dashboard online.
+
+## Key Analysis and Insights
+* **Overall Employee Headcount:** Tracking active, hired, and terminated employees over time.
+* **Gender Diversity:** Visualizing gender distribution across the organization and within departments.
+* **Education & Performance:** Analyzing employee education levels and their correlation with performance ratings.
+* **Income Distribution:** Visualizing income levels broken down by education and gender.
+* **Age & Salary Analysis:** Treemaps showing salary distribution across different age groups and job roles.
+* **Location-Based Insights:** Geographical distribution of employees.
+
+## Dashboard / Visualization Features
+* **Overview Section:** Displays key metrics like total active employees, new hires, and terminations with a trend chart.
+* **Demographics Visuals:** Interactive pie charts showing gender split and distribution.
+* **Education & Performance Insights:** Charts depicting employee education levels (High School, Bachelor, Master, PhD) and their associated performance ratings.
+* **Income Breakdown:** Visualizations showing salary ranges across different education levels and genders.
+* **Age & Salary Treemap:** A treemap to visualize the count of employees and their average salary across various age groups and job titles.
+* **Interactive Filters:** Global filters for **Gender, Location, Hiredate, and Status** allow users to dynamically explore subsets of the data.
+
+## Project Structure & Files
+* `HR Dashboard.twbx`: The main Tableau packaged workbook file containing all dashboards and underlying data.
+* `Purpose of HR dashboard.docx`: A document outlining the strategic purpose, design choices, and insights of the HR Dashboard.
+
+## Live Interactive Dashboard (Optional)
+If you've published your dashboard to Tableau Public, it's highly recommended to include the direct link here:
+[View Live HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/satyam.pandey1518/viz/HRdashboard_17501337727710/Dashboard1)
