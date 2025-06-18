@@ -1,0 +1,29 @@
+
+# City and Resort Hotel EDA + Documentation Project
+
+## 1. Project Overview & Goal
+This project involves a comprehensive Exploratory Data Analysis (EDA) of hotel booking data, encompassing both city hotels and resort hotels. The primary goal is to uncover booking patterns, analyze cancellation rates, identify factors influencing customer behavior, and provide actionable insights for hotel management and marketing strategies.
+
+## 2. Data Source
+The dataset used for this project is `hotel_bookings.csv`. It contains detailed booking information including booking dates, stay duration, guest demographics, room types, pricing, and cancellation status.
+
+## 3. Tools and Technologies Used
+* **Python:** The primary programming language used for data manipulation and analysis.
+* **Jupyter Notebook:** For interactive data exploration, visualization, and documenting the analysis process.
+* **Pandas:** For data loading, cleaning, and manipulation.
+* **Matplotlib / Seaborn:** For creating various statistical plots and visualizations.
+* **Microsoft Word:** Used for creating the detailed project documentation (`Summary and conclusion Hotel project.docx` and `CITY And RESORT HOTEL SERVICE.docx`).
+
+## 4. Key Analysis and Insights
+* **Booking Trends:** Analysis of booking volumes over time, identifying peak seasons and low periods.
+* **Cancellation Behavior:** Deep dive into factors contributing to booking cancellations (e.g., lead time, deposit type, market segment).
+* **Guest Demographics:** Understanding guest origins, repeat customers, and the distribution of adults, children, and babies.
+* **Stay Duration Analysis:** Insights into preferred length of stay for different hotel types and customer segments.
+* **Revenue Analysis:** Exploring average daily rates (ADR) and its relationship with booking characteristics.
+* **Market Segment Performance:** Evaluating the performance of different distribution channels and market segments.
+* **Room Type Preferences:** Analyzing which room types are most booked and their association with cancellations.
+
+## 5. Project Structure & Files
+* `EDA Hotel analysis.ipynb`: The main Jupyter Notebook containing the Python code for data loading, cleaning, EDA, and visualizations.
+* `hotel_bookings.csv`: The dataset used for the analysis.
+* `Summary and conclusion Hotel project.docx`: A detailed document summarizing the project, key findings, and conclusions.
