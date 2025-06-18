@@ -1,0 +1,27 @@
+# Diversity & Inclusion (HR) Dashboard (Power BI)
+
+## 1. Project Overview & Goal
+This project focuses on creating a comprehensive Diversity & Inclusion (D&I) dashboard using Power BI. The main objective is to visualize key D&I metrics within an HR context, allowing organizations to track their progress, identify areas for improvement, and foster a more inclusive workplace culture.
+
+## 2. Data Source
+The data for this D&I dashboard is likely an HR dataset containing employee demographics (e.g., gender, age, ethnicity, disability status), department, job role, and possibly performance or compensation data.
+
+## 3. Tools and Technologies Used
+* **Microsoft Power BI Desktop:** For data connection, transformation (Power Query), data modeling (DAX), and dashboard creation.
+
+## 4. Key Analysis and Insights
+* **Demographic Breakdown:** Visualizing the distribution of employees across different demographic categories (gender, age groups, ethnicity, etc.).
+* **Representation by Level/Department:** Analyzing D&I metrics across various organizational levels, departments, or job functions to identify disparities.
+* **Gender Pay Gap Analysis (Optional):** If data permits, visualizing salary differences based on gender and other demographics.
+* **Recruitment Diversity:** Tracking diversity in new hires compared to the overall workforce.
+* **Retention Analysis:** Examining retention rates across different demographic groups.
+* **Trends Over Time:** Observing changes in D&I metrics over specific periods.
+
+## 5. Dashboard / Visualization Features
+* **Key D&I Metrics:** Displaying overall diversity percentages, representation rates, and other relevant KPIs.
+* **Interactive Slicers:** Allowing users to filter data by department, job role, region, or specific demographic attributes.
+* **Visual Breakdown:** Utilizing various chart types (bar charts, pie charts, stacked columns, treemaps) to present demographic distributions clearly.
+* **Comparison Views:** Enabling comparison of D&I metrics between different groups or time periods.
+
+## 6. Project Structure & Files
+* `Diversity_Inclusion_HR.pbix`: The main Power BI Desktop file, containing the data model, transformations, and the complete dashboard.
