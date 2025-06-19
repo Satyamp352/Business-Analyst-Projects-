@@ -1,10 +1,10 @@
-# Business-Analyst-Projects-
+📊 Business Analyst Portfolio
 A collection of my data analytics and business intelligence projects.
 
 # My Data Analytics Portfolio
 
-Welcome to my data analytics and business intelligence portfolio! This repository showcases a collection of my projects, demonstrating my skills in data exploration, visualization, SQL, and dashboarding.
-
+Welcome to my Business Analysis & Data Analytics project portfolio.
+This repository showcases real-world projects that highlight my skills in business analysis, data exploration, dashboarding, and agile documents.
 ---
 
 ## Projects Overview
@@ -34,13 +34,35 @@ Here's a summary of the projects included in this portfolio. Click on the links 
 
 ---
 
-## Skills Demonstrated
-* **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Trend Analysis
-* **Visualization & BI:** Tableau, Power BI, Matplotlib, Seaborn
-* **Programming Languages:** Python, SQL
-* **Tools & Platforms:** Jupyter Notebook, Git, GitHub
-* **Key Concepts:** KPI Dashboards, HR Analytics, Sales Analytics, Database Querying, Data Storytelling
+🧠 Key Skills Demonstrated
+📋 Business Analysis: Requirement Gathering, Documentation (BRD, RTM), User Stories
+
+📈 Data Analysis: EDA, Sales Analysis, HR Analytics, KPI Definition
+
+💻 Tools & Platforms: Jira, Confluence, Lucidchart, Tableau, Power BI, Excel, SQL, Python
+
+📊 Visuals & Dashboards: Tableau, Power BI, Seaborn, Matplotlib
+
+🧠 Methodologies: Agile, Scrum, SDLC, BPMN
 
 ---
+
+🔗 Featured Agile/Jira-Based Projects
+These were created using Jira, Confluence, and Lucidchart as part of Agile SDLC practice.
+
+📁 Customer Support Ticketing System – Jira & Confluence
+🔹 🔗 Jira Backlog (ECPF) [🔗 Jira Backlog (ECPF)](https://satyamp352.atlassian.net/jira/software/projects/ECPF/boards/166)
+
+🔹 📄 Detailed Requirements (Confluence) - [📄 Detailed Requirements (Confluence)](https://satyamp352.atlassian.net/wiki/spaces/EPD/pages/917580/Detailed+Requirements+Enhanced+Product+Discovery)  
+
+🔹 📊 BPMN Diagram (Lucidchart) - [📊 BPMN Diagram (Lucidchart)](https://lucid.app/lucidchart/27e21cea-5a81-43cf-bb0d-591f611d09b4/edit)
+
+Summary:
+This mock Agile project showcases end-to-end BA skills: from writing user stories and managing the Jira backlog to documenting requirements and process flows in Confluence and Lucidchart.
+
+
+
+
+
 
 Feel free to explore each project folder for detailed analysis, code, and project-specific documentation.
