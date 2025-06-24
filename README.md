@@ -57,7 +57,6 @@ These were created using Jira, Confluence, and Lucidchart as part of Agile SDLC 
 
 🔹 🔗 Jira Backlog (ECPF) [🔗 Jira Backlog (ECPF)](https://satyamp352.atlassian.net/jira/software/projects/EPD/summary?atlOrigin=eyJpIjoiYmVmYzkyMDAxMzI4NDAwMDgxOWUzZjdlMzg3OTBkZTciLCJwIjoiaiJ9))
 
-🔹 📄 Detailed Requirements (Confluence) - [📄 Detailed Requirements (Confluence)](https://satyamp352.atlassian.net/wiki/spaces/EPD/pages/917580/Detailed+Requirements+Enhanced+Product+Discovery)  
 
 🔹 📊 BPMN Diagram (Lucidchart) - [📊 BPMN Diagram (Lucidchart)](https://lucid.app/lucidchart/27e21cea-5a81-43cf-bb0d-591f611d09b4/edit)
 
