@@ -51,11 +51,11 @@ Here's a summary of the projects included in this portfolio. Click on the links 
 These were created using Jira, Confluence, and Lucidchart as part of Agile SDLC practice.
 
 📁 Enhanced Product Discovery
-🔹**You can find our comprehensive Business Requirements Document (BRD) and detailed project documentation on our Confluence space here:**
+🔹**You can find our comprehensive Business Requirements Document (BRD) and detailed project documentation on our Confluence/Jira space here:**
 
 [Access Full Project Documentation on Confluence](https://satyamp352.atlassian.net/wiki/x/HIEL)
 
-🔹 🔗 Jira Backlog (ECPF) [🔗 Jira Backlog (ECPF)]([https://satyamp352.atlassian.net/jira/software/projects/ECPF/boards/166](https://satyamp352.atlassian.net/jira/software/projects/EPD/summary?atlOrigin=eyJpIjoiYmVmYzkyMDAxMzI4NDAwMDgxOWUzZjdlMzg3OTBkZTciLCJwIjoiaiJ9))
+🔹 🔗 Jira Backlog (ECPF) [🔗 Jira Backlog (ECPF)](https://satyamp352.atlassian.net/jira/software/projects/EPD/summary?atlOrigin=eyJpIjoiYmVmYzkyMDAxMzI4NDAwMDgxOWUzZjdlMzg3OTBkZTciLCJwIjoiaiJ9))
 
 🔹 📄 Detailed Requirements (Confluence) - [📄 Detailed Requirements (Confluence)](https://satyamp352.atlassian.net/wiki/spaces/EPD/pages/917580/Detailed+Requirements+Enhanced+Product+Discovery)  
 
